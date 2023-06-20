@@ -1,0 +1,6 @@
+name: GyroPaper
+main: com.projecki.gyro.GyroPaper
+version: 1.0-SNAPSHOT
+api-version: 1.16
+depend:
+  - FusionPaper
